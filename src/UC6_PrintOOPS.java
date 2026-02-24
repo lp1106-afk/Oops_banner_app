@@ -24,8 +24,8 @@ public class UC6_PrintOOPS {
     public static String[] getSPattern(){
         return new String[]{
                 " ***** ",
-                "*",
-                "*",
+                "*      ",
+                "*      ",
                 " ***** ",
                 "      *",
                 "      *",
